@@ -1,7 +1,7 @@
 blueprint:
-  name: Controller - EnOcean PTM 215Z (Friends of Hue) switch
+  name: Controller - Siglis Zigfred-ZFU-ID-CH switch
   description: 'Controller automation for executing press/hold/release actions triggered by
-    EnOcean PTM 215Z (Friends of Hue) switch.'
+    Siglis Zigfred ZFU-1D-CH'
 
   domain: automation
   input: 
